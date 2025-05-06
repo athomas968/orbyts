@@ -6,7 +6,7 @@
 
 import sys
 import numpy as np
-import physcon
+import orbyts.physcon
 from scipy import integrate
 
 debug        = False
