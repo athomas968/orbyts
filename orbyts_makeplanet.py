@@ -15,7 +15,7 @@ from scipy.optimize import fsolve
 import matplotlib.pyplot as plt
 
 # local modules
-import orbyts_disk as ds
+import orbyts.orbyts_disk as ds
 
 # =============================================================================
 # planet formation module
